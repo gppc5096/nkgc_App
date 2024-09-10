@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">xn--289an1ae8c3xa996k.kr</domain>
+    </domain-config>
+</network-security-config>
